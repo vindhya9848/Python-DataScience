@@ -15,4 +15,4 @@ Daily Calorie Intake \
 Stress Level (0-10 scale) \
 Sleep Quality (0-100 score) \
 Daily Activity Type(categorical:sedentary, moderate, intense) \
-Mood (multiclass: sad, neutral, happy)  \
+Mood (multiclass: sad, neutral, happy)  
